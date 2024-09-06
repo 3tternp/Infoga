@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3.13.0rc1-alpine3.20
 
 ENV APP_HOME /usr/src/app
 
